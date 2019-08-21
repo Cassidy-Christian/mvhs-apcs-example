@@ -28,3 +28,5 @@
 ## problems
 * commit without -m -> Use Esc :wq to wuit Vim
 * wrong message -> git commit --amend -m "New message"
+
+adfgdsdfhdfgjhgfdsdfhhhh
