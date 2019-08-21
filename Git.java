@@ -6,6 +6,7 @@ public class Git {
         System.out.println("Hi Mom!");
         System.out.println("Javagirl1");
         System.out.println("Pepe the frog"); 
+        System.out.println("5th period is cool");
     }
 
 
